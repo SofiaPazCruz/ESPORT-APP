@@ -1,0 +1,8 @@
+{
+  "name": "ESPORTS - Facultad de Ingeniería Tampico (UAT)",
+  "description": "Portal oficial de torneos de ESPORTS de la Facultad de Ingeniería Tampico de la Universidad Autónoma de Tamaulipas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
